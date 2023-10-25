@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Taufique_Ali
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- A passionate Frontend Developer from India.
+- 👀 I’m interested in Learning and adopting new Technologies.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on on projects.
+- 📫 How to reach me - taufiqueali2911@gmail.com
 
 <!---
 taufique100/taufiqueali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
