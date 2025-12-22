@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Taufique_Ali
+- 👋 Hi, I’m @Taufique_Ali MERN Stack Developer
 - A passionate Frontend Developer from India.
 - 👀 I’m interested in Learning and adopting new Technologies.
-- 🌱 I’m currently learning MERN stack.
 - 💞️ I’m looking to collaborate on on projects.
 - 📫 How to reach me - taufiqueali2911@gmail.com
 
