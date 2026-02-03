@@ -1,4 +1,4 @@
-Hi, I’m Taufique Ali — Full Stack Developer (MERN & MEAN)
+# Hi, I’m Taufique Ali — Full Stack Developer (MERN & MEAN)
 
 Full-Stack Engineer with 3+ years of experience building secure, scalable, and high-performance web applications.
 
