@@ -1,6 +1,6 @@
-## Hi, I’m Taufique Ali — Full Stack Developer (MERN & MEAN)
+Hi, I’m Taufique Ali — Full Stack Developer (MERN & MEAN)
 
-# Full-Stack Engineer with 3+ years of experience building secure, scalable, and high-performance web applications.
+Full-Stack Engineer with 3+ years of experience building secure, scalable, and high-performance web applications.
 
 💻 Tech Stack:
 • Frontend: React.js, Angular, TypeScript, JavaScript (ES6+), Redux Toolkit, Tailwind CSS, Material-UI  
@@ -23,6 +23,7 @@
 
 🤝 Open to:
 • Full-time roles
+• Freelance projects
 • Open-source collaboration  
 
 📫 Reach me at: **taufiqueali2911@gmail.com**
